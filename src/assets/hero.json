@@ -1,0 +1,72 @@
+
+[
+            {
+                "habilidad": "inmortal",
+                "universo": "DC",
+                "apodo": "Superman",
+                "simbolo": "https://www.pngplay.com/wp-content/uploads/8/Superman-Logo-Transparent-PNG.png",
+                "villano": [
+                    {"nombre":"lex luthor","habilidad":"multimillonario"},
+                    {"nombre":"enderman","habilidad":"teletransporte"}
+                ],
+                "vehiculo": "sin vehiculo",
+                "imagen": "https://www.pngmart.com/files/2/Superman-PNG-Free-Download.png"
+            },
+
+            {
+                "habilidad": "inmortal",
+                "universo": "minecraft",
+                "apodo": "steve",
+                "simbolo": "https://w7.pngwing.com/pngs/73/140/png-transparent-minecraft-computer-icons-logo-font-crafts-angle-text-rectangle.png",
+                "villano": [
+                    {"nombre":"elder dragon","habilidad":"vuela"},
+                    {"nombre":"herobrine","habilidad":"todopoderoso"}
+                ],
+                "vehiculo": "sin vehiculo",
+                "imagen": "https://static.wikia.nocookie.net/ssbb/images/a/ad/Art_oficial_Steve_SSBU.png/revision/latest/scale-to-width-down/1200?cb=20201001153842&path-prefix=es"
+            },
+
+            {
+                "habilidad": "Inteligente",
+                "universo": "DC",
+                "apodo": "Batman",
+                "simbolo": "http://assets.stickpng.com/images/58428ba1a6515b1e0ad75ab0.png",
+                "villano": [
+                    {"nombre":"guason","habilidad":"calculador"},
+                    {"nombre":"pinguino","habilidad":"mafioso"}
+                ],
+                "vehiculo": "batimovil",
+                "imagen": "https://www.pngmart.com/files/2/Batman-PNG-Image.png"
+            },
+
+            {
+                "habilidad": "Super Fuerza",
+                "universo": "Valve",
+                "apodo": "Tank",
+                "simbolo": "https://w7.pngwing.com/pngs/311/882/png-transparent-left-4-dead-2-counter-strike-global-offensive-team-fortress-2-video-game-others-left-4-dead-2-counter-strike-global-offensive-offensive-team.png",
+                "villano": [
+                    {"nombre":"Rochel","habilidad":"disparar"},
+                    {"nombre":"Nick","habilidad":"disparar"}
+                ],
+                "vehiculo": "sin vehiculo",
+                "imagen": "https://www.seekpng.com/png/detail/399-3990598_the-tank-from-left-4-dead.png"
+            },
+
+            {
+                "habilidad": "La fuerza",
+                "universo": "Star wars",
+                "apodo": "Obiwan kenobi",
+                "simbolo": "https://w7.pngwing.com/pngs/384/403/png-transparent-stormtrooper-star-wars-anakin-skywalker-logo-stormtrooper-text-war-silhouette.png",
+                "villano": [
+                    {"nombre":"Darth vader","habilidad":"lado oscuro"},
+                    {"nombre":"palpatine","habilidad":"rayos"}
+                ],
+                "vehiculo": "halcon milenario",
+                "imagen": "https://static.wikia.nocookie.net/esstarwars/images/f/f5/TheNegotiator-SWE.png/revision/latest?cb=20200601013959"
+            }
+
+        ] 
+
+    
+
+    

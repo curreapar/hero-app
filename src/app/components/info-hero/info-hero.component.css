@@ -1,0 +1,12 @@
+.item{
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+}
+.villanos{
+    margin-top: 0;
+}
+
+img{
+    width: 200px;
+}
